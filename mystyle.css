@@ -1,0 +1,21 @@
+*{
+    margin: 10px;
+    padding: 10x;
+    border: 0px;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+div{
+    background: #04faee;
+    
+}
+
+textarea{
+    margin: 10px; width: 352px; height: 125px;
+    color: aqua;
+}
+
+.twitter,.instagram,.linkedin{
+    color: black;
+}
